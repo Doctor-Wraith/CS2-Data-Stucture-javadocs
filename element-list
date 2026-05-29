@@ -1,3 +1,6 @@
 com.thomas.graphs
+com.thomas.graphs.DAG
+com.thomas.graphs.Unweighted
+com.thomas.graphs.Weighted
 com.thomas.trees
 com.thomas.trees.enums

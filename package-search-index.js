@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.thomas.graphs"},{"l":"com.thomas.trees"},{"l":"com.thomas.trees.enums"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"com.thomas.graphs"},{"l":"com.thomas.graphs.DAG"},{"l":"com.thomas.graphs.Unweighted"},{"l":"com.thomas.graphs.Weighted"},{"l":"com.thomas.trees"},{"l":"com.thomas.trees.enums"}];updateSearchResults();
